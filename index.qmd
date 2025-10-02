@@ -1,0 +1,34 @@
+---
+title: "Jason Laird, Ph.D. Candidate, M.Sc."
+---
+
+<img src="./img/headshot.png" style="float:right;margin:0 0 0em 0em;" width="217"/>
+
+#### Computational Biologist | Multi-Omics & AI for Translational Medicine
+
+Hi, My name is Jason and I’m a computational biologist who works at the intersection of biology and data. I’m passionate about turning complex datasets into insights for toxicology, neuroimmunology, and translational medicine.
+
+#### Selected Projects
+<hr>
+
+::: {.callout-note appearance="minimal"}
+
+**tidyexposomics**: an R package to characterize the relationship between exposures, health outcomes, and multi-omics profiles.
+
+[<img src="./img/logo.png" width="130" style="vertical-align:middle; margin-right:10px;"> ](https://bionomad.github.io/tidyexposomics/)
+
+
+:::
+
+
+::: {.callout-note appearance="minimal"}
+
+**Activating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma**: Identification of a novel driver mutation in adenoid cystic carcinoma.
+
+[<img src="./img/igf1r.jpg" height="150" style="vertical-align:middle; margin-right:10px;"> ](https://doi.org/10.1038/s41379-022-01126-3)
+
+
+:::
+
+
+

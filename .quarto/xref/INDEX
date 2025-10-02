@@ -1,0 +1,17 @@
+{
+  "about.qmd": {
+    "about.html": "348cb998"
+  },
+  "index.qmd": {
+    "index.html": "7793a785"
+  },
+  "test.qmd": {
+    "test.html": "94deb3f4"
+  },
+  "cv.qmd": {
+    "cv.html": "9981a0c2"
+  },
+  "projects/tidyexposomics.qmd": {
+    "tidyexposomics.html": "25738a94"
+  }
+}
