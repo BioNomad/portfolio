@@ -8,6 +8,8 @@ title: "Jason Laird, Ph.D. Candidate, M.Sc."
 
 Hi, My name is Jason and I’m a computational biologist who works at the intersection of biology and data. I’m passionate about turning complex datasets into insights for toxicology, neuroimmunology, and translational medicine.
 
+[ORCHiD <img src="./img/orchid.svg" height="30" />](https://orcid.org/0009-0000-5994-2236){.btn .btn-primary} [Google Scholar <img src="./img/google_scholar.png" height="30" />](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en){.btn .btn-primary} [GitHub <img src="./img/github.jpeg" height="30" />](https://github.com/BioNomad){.btn .btn-primary} [LinkedIn <img src="./img/linkedin.png" height="30" />](https://www.linkedin.com/in/jason-laird-78b9b116b/){.btn .btn-primary}
+
 #### Selected Projects
 <hr>
 

@@ -260,6 +260,8 @@ Issued Oct 2022
 
 ## Publications
 
+[ORCHiD <img src="./img/orchid.svg" height="30" />](https://orcid.org/0009-0000-5994-2236){.btn .btn-primary} [Google Scholar <img src="./img/google_scholar.png" height="30" />](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en){.btn .btn-primary}
+
 
 ::: {.callout-note appearance="minimal"}
 **Human neural organoid microphysiological systems show the building blocks necessary for basic learning and memory**  
