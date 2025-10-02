@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I am interested in leveraging high-throughput biological data to understand neurological disorders and chronic disease. Specifically, I am currently researching how sex and developmental stage affect multi-omics profiles of Autism Spectrum Disorder (ASD). Additionally, I am creating new methods to characterize the relationship between exposure, health outcomes, and multi-omics signatures."
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "",
+    "text": "I am interested in leveraging high-throughput biological data to understand neurological disorders and chronic disease. Specifically, I am currently researching how sex and developmental stage affect multi-omics profiles of Autism Spectrum Disorder (ASD). Additionally, I am creating new methods to characterize the relationship between exposure, health outcomes, and multi-omics signatures."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\n\n\nSoftware\n\nR/RShiny\nPython\nLinux /Bash/HPC/SLURM\n\nVersion Control/Git/Docker\n\n\n\n\n\n\n\n\n\n\n\nDomain Knowledge\n\nBioinformatics\nToxicology\nNeuroimmunology\nPharmacology\n\n\n\n\n\n\n\n\n\n\n\n\nData Analysis\n\nSingle-cell/nuclei RNA-seq, Spatial transcriptomics\nBulk Methods: RNA-seq, Methylation, Proteomics, Metabolomics\nQuality Control\nExploratory Data Analysis\nMachine Learning/Artificial Intelligence\nStatistical Modeling\nPipeline Development"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\n\n\n\n\nPhD Candidate, Toxicology, Physiology, and Molecular Mechanisms\nJohns Hopkins Bloomberg School of Public Health · Full-time\nSep 2023 – Present · Baltimore, MD\n\nResearch neurodevelopmental and chronic conditions using multi-omics data\n\nAssist in teaching classes at the Bloomberg School of Public Health\n\nComplete coursework in toxicology, pharmacology, and molecular biology\n\n\n\n\n\n\n\n\n\n\n\nBioinformatics Scientist\nTufts University\nJan 2022 – Sep 2023 · 1 yr 9 mos\n\nDevelop omics data workflows and curate reference data to support bioinformatics research on Tufts HPC and Galaxy Server\n\nConsult on bioinformatics projects and provide input on workflow design and optimization\n\nDevelop and lead omics data analysis and visualization seminars\n\n\n\n\n\n\n\n\n\n\n\nClinical Bioinformatics Analyst\nFoundation Medicine · Full-time\nJan 2021 – Dec 2021 · 1 yr\n\nLead team to develop R package / Shiny app for analysis and visualization\n\nAnalyze clinical oncology NGS data and annotate genomic aberrations to inform oncologists of actionable drug targets\n\nImplement and design SQL queries to obtain relevant data\n\nCollaborate in cross-disciplinary teams to complete projects and implement process improvements\n\n\n\n\n\n\n\n\n\n\n\nHistology Systems Specialist\nFoundation Medicine · Full-time\nJul 2020 – Jan 2021 · 7 mos · Cambridge, MA\n\nDevelop and analyze performance metrics for Histology team using R, Python, and Power BI\n\nTest and improve technology products to meet evolving workflow needs\n\nUpdate and revise SOPs to reflect changes in lab processes\n\n\n\n\n\n\n\n\n\n\n\nHistotechnologist\nFoundation Medicine\nOct 2018 – Jul 2020 · 1 yr 10 mos · Cambridge, MA\n\nOperated in CLIA/CAP environment with pathologists to assess tumor composition of cancer patient samples\n\nPerformed validation of new processes and updated SOPs\n\n\n\n\n\n\n\n\n\n\n\nPathology Technician II\nCovance\nJun 2016 – Aug 2018 · 2 yrs 3 mos · Madison, WI\n\nAssisted pathologists in assessing efficacy of new medical therapies via tissue preparation\n\nIdentified and resolved issues in documentation, GLP/SOP compliance, and process improvements"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "CV",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n\n\n\n\n\n\nMolecular Toxicology Teaching Assistant\nJohns Hopkins University\n2024/2025\n\nAssisted with lectures and grading of assignents.\n\n\n\n\n\n\n\n\n\n\n\nIntroduction To Risk Sciences Teaching Assistant\nJohns Hopkins University\n2024\n\nAssisted with lectures and grading of assignents.\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Bioinformatics - Recurring Guest Lecturer\nTufts University\n2022/2023\n\nLectured on the principles of RNA-seq, and led a live workshop on how to analyze RNA-seq data.\n\n\n\n\n\n\n\n\n\n\n\nProtein Engineering Course - Recurring Guest Lecturer\nTufts University\n2022/2023\n\nLectured on the background and use of AlphaFold in protein engineering research and led a live workshop on how to use AlphaFold.\n\n\n\n\n\n\n\n\n\n\n\nIntroduction To 16S Metabarcoding\nTufts University\n2022\n\nLectured on 16S Metabarcoding data analysis to profile microbial communities and led a live workshop on how to analyze microbiome data.\n\n\n\n\n\n\n\n\n\n\n\nAnimal Histology Teaching Assistant\nBinghamton University\n2015\n\nTaught students about tissue composition, lesion formation, and tissue identification under microscope\n\nProctored exams and supported laboratory preparation for classes"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\nPhD, Toxicology, Physiology, and Molecular Mechanisms\nJohns Hopkins Bloomberg School of Public Health\nSep 2023 - May 2026\n\n\n\n\n\n\n\n\n\n\nMaster of Science - MS, Bioinformatics\nBrandeis University\n2019 - 2021\n\n\n\n\n\n\n\n\n\n\nBachelor’s degree, Biology/Biological Sciences\nSUNY Binghamton\n2013 - 2016"
+  },
+  {
+    "objectID": "cv.html#memberships",
+    "href": "cv.html#memberships",
+    "title": "CV",
+    "section": "Memberships",
+    "text": "Memberships\n\n\n\n\n\n\n\nCarpentries Instructor\nThe Carpentries\nIssued Oct 2022\n\n\n\n\n\n\n\n\n\n\nAmerican Society of Human Genetics"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\n\n\nHuman neural organoid microphysiological systems show the building blocks necessary for basic learning and memory\nCommunications Biology · 2025-08-16 | Journal article\nDOI: 10.1038/s42003-025-08632-5\nContributors: Dowlette-Mary Alam El Din; Leah Moenkemoeller; Alon Loeffler; Forough Habibollahi; Jack Schenkman; Amitav Mitra; Tjitse van der Molen; Lixuan Ding; Jason Laird; Maren Schenke et al.\n\n\n\n\n\n\n\n\n\nSingle Cell Transcriptomic Profiling of MYBPC3-Associated Hypertrophic Cardiomyopathy Across Species Reveals Conservation of Biological Process But Not Gene Expression\nJournal of the American Heart Association · 2025-01-07 | Journal article\nDOI: 10.1161/jaha.124.035780\nContributors: Samia A. Ali; Gayani Perera; Jason Laird; Rebecca Batorsky; Martin S. Maron; Victor N. Rivas; Joshua A. Stern; Samantha Harris; Michael T. Chin\n\n\n\n\n\n\n\n\n\nNetwork Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis\nThe Journals of Gerontology, Series A: Biological Sciences and Medical Sciences · 2024-11-01 | Journal article\nDOI: 10.1093/gerona/glae211\nContributors: Archana Nagarajan; Jason Laird; Obiadada Ugochukwu; Sjur Reppe; Kaare Gautvik; Ryan D Ross; David A Bennett; Clifford Rosen; Douglas P Kiel; Lenora A Higginbotham et al.\n\n\n\n\n\n\n\n\n\nHuman Neural Organoid Microphysiological Systems Show the Building Blocks Necessary for Basic Learning and Memory\nPreprint · 2024-09-19\nDOI: 10.1101/2024.09.17.613333\nContributors: Dowlette-Mary Alam El Din; Leah Moenkemoeller; Alon Loeffler; Forough Habibollahi; Jack Schenkman; Amitav Mitra; Tjitse van der Molen; Lixuan Ding; Jason Laird; Maren Schenke et al.\n\n\n\n\n\n\n\n\n\nProtosequences in brain organoids model intrinsic brain states\nPreprint · 2023-12-30\nDOI: 10.1101/2023.12.29.573646\nContributors: Tjitse van der Molen; Alex Spaeth; Mattia Chini; Sebastian Hernandez; Gregory A. Kaurala; Hunter E. Schweiger; Cole Duncan; Sawyer McKenna; Jinghui Geng; Max Lim et al.; Jason Laird\n\n\n\n\n\n\n\n\n\nTranscriptomic network analysis of brain and bone reveals shared molecular mechanisms underlying Alzheimer’s Disease and related dementias (ADRD) and Osteoporosis\nPreprint · 2023-10-28\nDOI: 10.1101/2023.10.26.559969\nContributors: Archana Nagarajan; Jason Laird; Obiadada Ugochukwu; Sjur Reppe; Kaare Gautvik; Ryan D. Ross; David A. Bennett; Clifford Rosen; Douglas P. Kiel; Lenora A. Higginbotham et al.\n\n\n\n\n\n\n\n\n\nSpatial Transcriptomic Analysis of Focal and Normal Areas of Myocyte Disarray in Human Hypertrophic Cardiomyopathy\nInternational Journal of Molecular Sciences · 2023-08-10 | Journal article\nDOI: 10.3390/ijms241612625\nContributors: Jason Laird; Gayani Perera; Rebecca Batorsky; Hongjie Wang; Knarik Arkun; Michael T. Chin\n\n\n\n\n\n\n\n\n\nAbstract EC.09: Single Nuclei RNA Sequencing Analysis Of Mybpc-3-Associated HCM To Identify Common Pathological Mechanisms In Human, Feline, And Murine Hearts\nCirculation Research · 2023-08-04 | Journal article\nDOI: 10.1161/res.133.suppl_1.ec.09\nContributors: Samia Ali; Gayani Perera; Jason Laird; Rebecca Batorsky; Joshua A Stern; Samantha Harris; Michael T Chin\n\n\n\n\n\n\n\n\n\nContinuous fish muscle cell line with capacity for myogenic and adipogenic-like phenotypes\nScientific Reports · 2023-03-29 | Journal article\nDOI: 10.1038/s41598-023-31822-2\nContributors: Michael K. Saad; John S. K. Yuen; Connor M. Joyce; Xinxin Li; Taehwan Lim; Talia L. Wolfson; Justin Wu; Jason Laird; Sanjana Vissapragada; Olivia P. Calkins et al.\n\n\n\n\n\n\n\n\n\nAltered intercellular communication in human hypertrophic cardiomyopathy inferred from single nuclei RNA-seq, Ligand-Receptor gene expression analysis and spatial transcriptomics\nJournal of Molecular and Cellular Cardiology · 2022-12 | Journal article\nDOI: 10.1016/j.yjmcc.2022.08.090\nContributors: Michael Chin; Christina Codden; Amy Larson; Gayani Perera; Jason Laird; Rebecca Batorsky; Junya Awata\n\n\n\n\n\n\n\n\n\nActivating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma\nModern Pathology · 2022-11 | Journal article\nDOI: 10.1038/s41379-022-01126-3\nContributors: Matthew Margolis; Tyler Janovitz; Jason Laird; Douglas A. Mata; Meagan Montesion; Jessica K. Lee; Russell W. Madison; Alexa B. Schrock; Hanna Tukachinsky; Justin M. Allen et al.\n\n\n\n\n\n\n\n\n\nPersonalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets\nPreprint · 2021-01-25\nDOI: 10.1101/2021.01.25.427953\nContributors: Jason Laird; Alexandra Maertens"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jason Laird, Ph.D. Candidate, M.Sc.",
+    "section": "",
+    "text": "Computational Biologist | Multi-Omics & AI for Translational Medicine\nHi, My name is Jason and I’m a computational biologist who works at the intersection of biology and data. I’m passionate about turning complex datasets into insights for toxicology, neuroimmunology, and translational medicine.\n\n\nSelected Projects\n\n\n\n\n\n\n\ntidyexposomics: an R package to characterize the relationship between exposures, health outcomes, and multi-omics profiles.\n\n\n\n\n\n\n\n\n\n\nActivating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma: Identification of a novel driver mutation in adenoid cystic carcinoma."
+  }
+]
