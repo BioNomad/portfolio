@@ -1,5 +1,5 @@
 ---
-title: "Jason Laird, Ph.D. Candidate, M.Sc."
+title: "Jason Laird, Ph.D. Candidate, M.Sc." 
 ---
 
 <img src="./img/headshot.png" style="float:right;margin:0 0 0em 0em;" width="217"/>
@@ -8,16 +8,20 @@ title: "Jason Laird, Ph.D. Candidate, M.Sc."
 
 Hi, My name is Jason and I’m a computational biologist who works at the intersection of biology and data. I’m passionate about turning complex datasets into insights for toxicology, neuroimmunology, and translational medicine.
 
-[ORCHiD <img src="./img/orchid.svg" height="30" />](https://orcid.org/0009-0000-5994-2236){.btn .btn-primary} [Google Scholar <img src="./img/google_scholar.png" height="30" />](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en){.btn .btn-primary} [GitHub <img src="./img/github.jpeg" height="30" />](https://github.com/BioNomad){.btn .btn-primary} [LinkedIn <img src="./img/linkedin.png" height="30" />](https://www.linkedin.com/in/jason-laird-78b9b116b/){.btn .btn-primary}
+[ORCHiD <img src="./img/orchid.svg" height="30" target="_blank"/>](https://orcid.org/0009-0000-5994-2236){.btn .btn-primary} [Google Scholar <img src="./img/google_scholar.png" height="30" target="_blank"/>](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en){.btn .btn-primary} [GitHub <img src="./img/github.jpeg" height="30" target="_blank"/>](https://github.com/BioNomad){.btn .btn-primary} [LinkedIn <img src="./img/linkedin.png" height="30" target="_blank"/>](https://www.linkedin.com/in/jason-laird-78b9b116b/){.btn .btn-primary}
 
 #### Selected Projects
 <hr>
 
+
+:::{.panel-tabset}
+
+#### All
 ::: {.callout-note appearance="minimal"}
 
 **tidyexposomics**: an R package to characterize the relationship between exposures, health outcomes, and multi-omics profiles.
 
-[<img src="./img/logo.png" width="130" style="vertical-align:middle; margin-right:10px;"> ](https://bionomad.github.io/tidyexposomics/)
+[<img src="./img/logo.png" width="130" style="vertical-align:middle; margin-right:10px;"target="_blank"> ](https://bionomad.github.io/tidyexposomics/)
 
 
 :::
@@ -32,5 +36,27 @@ Hi, My name is Jason and I’m a computational biologist who works at the inters
 
 :::
 
+#### Software
+
+::: {.callout-note appearance="minimal"}
+
+**tidyexposomics**: an R package to characterize the relationship between exposures, health outcomes, and multi-omics profiles.
+
+[<img src="./img/logo.png" width="130" style="vertical-align:middle; margin-right:10px;"> ](https://bionomad.github.io/tidyexposomics/)
 
 
+:::
+
+
+#### Cancer Informatics
+
+::: {.callout-note appearance="minimal"}
+
+**Activating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma**: Identification of a novel driver mutation in adenoid cystic carcinoma.
+
+[<img src="./img/igf1r.jpg" height="150" style="vertical-align:middle; margin-right:10px;"> ](https://doi.org/10.1038/s41379-022-01126-3)
+
+
+:::
+
+:::

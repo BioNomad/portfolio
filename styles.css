@@ -50,9 +50,12 @@
   color: white !important;
 }
 
+.margin-sidebar {
+  background-color: #f4f4f5ff !important;
+}
+
 
 .bi-search {
-  background-color: #090b36 !important;
   color: white !important;
 }
 
@@ -93,5 +96,16 @@ a {
 
 .callout p {
   margin-bottom: 0.25rem !important;
+}
+
+
+.btn {
+  border-radius: 15px;
+}
+
+.nav-footer {
+    background-color: #f4f4f5ff;
+    color: black;
+    font-size: 18px;
 }
 

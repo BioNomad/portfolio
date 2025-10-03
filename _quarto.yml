@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Jason Laird"
+  page-footer: 
+    left: "© 2025, Jason Laird" 
+    background: primary
   sidebar:
     style: "docked"
     search: true
