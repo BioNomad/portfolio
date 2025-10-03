@@ -19,11 +19,13 @@ I am interested in leveraging high-throughput biological data to understand neur
 
 <i class="bi bi-file-code-fill" style="float:right;height:100px;"></i>
 
-**Software**
+**Software **
 
 * R/RShiny
 * Python
-* Linux /Bash/HPC/SLURM  
+* Linux 
+* HPC/SLURM  
+* HTML/CSS
 * Version Control/Git/Docker
 :::
 
@@ -229,7 +231,7 @@ Sep 2023 - May 2026
 ::: {.callout-note appearance="minimal"}
 <img src="./img/binghamton.jpeg" height="40" style="float:right; margin-left:10px;"/>
 
-**Bachelor's degree, Biology/Biological Sciences**
+**Bachelor's degree, Biological Sciences**
 
 *SUNY Binghamton*
 

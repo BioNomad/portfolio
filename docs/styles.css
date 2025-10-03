@@ -3,10 +3,32 @@
   background-color: #090b36 !important;
 }
 
-.navbar{
+/* Target the Quarto navbar wrapper */
+.quarto-navbar {
   background-color: #090b36 !important;
 }
 
+/* Ensure the inner Bootstrap navbar also respects it */
+.navbar .navbar,
+.navbar .navbar-collapse,
+.navbar .navbar-nav {
+  background-color: #090b36 !important;
+}
+
+/* Navbar brand (site title/logo) */
+.navbar .navbar-brand {
+  color: white !important;
+}
+
+/* Navbar links */
+.navbar .nav-link {
+  color: white !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #cccccc !important; /* light gray hover */
+}
 /* Buttons */
 .btn-primary {
   background-color: #090b36 !important;
@@ -16,6 +38,22 @@
 /* Links */
 .link-primary {
   color: #ffffff !important;
+}
+
+.quarto-secondary-nav {
+  background-color: #090b36 !important;
+  color: white !important;
+}
+
+.quarto-btn-toggle     {
+  background-color: #090b36 !important;
+  color: white !important;
+}
+
+
+.bi-search {
+  background-color: #090b36 !important;
+  color: white !important;
 }
 
 a {
