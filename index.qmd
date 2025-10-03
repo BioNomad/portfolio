@@ -2,61 +2,45 @@
 title: "Jason Laird, Ph.D. Candidate, M.Sc." 
 ---
 
+::: {.center}
+[![](./img/orchid.svg){height=30px}](https://orcid.org/0009-0000-5994-2236) 
+[![](./img/google_scholar.png){height=30px}](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en) 
+[![](./img/github.jpeg){height=30px}](https://github.com/BioNomad) 
+[![](./img/linkedin.png){height=30px}](https://www.linkedin.com/in/jason-laird-78b9b116b/)
+:::
+
 <img src="./img/headshot.png" style="float:right;margin:0 0 0em 0em;" width="217"/>
 
 #### Computational Biologist | Multi-Omics & AI for Translational Medicine
 
 Hi, My name is Jason and I’m a computational biologist who works at the intersection of biology and data. I’m passionate about turning complex datasets into insights for toxicology, neuroimmunology, and translational medicine.
 
-[ORCHiD <img src="./img/orchid.svg" height="30" target="_blank"/>](https://orcid.org/0009-0000-5994-2236){.btn .btn-primary} [Google Scholar <img src="./img/google_scholar.png" height="30" target="_blank"/>](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en){.btn .btn-primary} [GitHub <img src="./img/github.jpeg" height="30" target="_blank"/>](https://github.com/BioNomad){.btn .btn-primary} [LinkedIn <img src="./img/linkedin.png" height="30" target="_blank"/>](https://www.linkedin.com/in/jason-laird-78b9b116b/){.btn .btn-primary}
+
 
 #### Selected Projects
 <hr>
 
-
-:::{.panel-tabset}
-
-#### All
-::: {.callout-note appearance="minimal"}
-
-**tidyexposomics**: an R package to characterize the relationship between exposures, health outcomes, and multi-omics profiles.
-
-[<img src="./img/logo.png" width="130" style="vertical-align:middle; margin-right:10px;"target="_blank"> ](https://bionomad.github.io/tidyexposomics/)
-
-
+::: {.popup}
+[![](./img/logo.png){height=200px style="border:0.75px solid #cccccc; border-radius:8px; padding:10px;"}](https://bionomad.github.io/tidyexposomics/){target="_blank"}
+<div class="popuptext">
+**tidyexposomics**  
+An R package to characterize exposures, outcomes, and multi-omics profiles.
+</div>
 :::
 
-
-::: {.callout-note appearance="minimal"}
-
-**Activating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma**: Identification of a novel driver mutation in adenoid cystic carcinoma.
-
-[<img src="./img/igf1r.jpg" height="150" style="vertical-align:middle; margin-right:10px;"> ](https://doi.org/10.1038/s41379-022-01126-3)
-
-
+::: {.popup}
+[![](./img/rosmap.jpg){height=200px style="border:0.75px solid #cccccc; border-radius:8px; padding:10px;"}](https://academic.oup.com/biomedgerontology/article/79/11/glae211/7743121){target="_blank"}
+<div class="popuptext">
+**Alzheimer's Disease and Osteoporosis**  
+Network Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis.
+</div>
 :::
 
-#### Software
-
-::: {.callout-note appearance="minimal"}
-
-**tidyexposomics**: an R package to characterize the relationship between exposures, health outcomes, and multi-omics profiles.
-
-[<img src="./img/logo.png" width="130" style="vertical-align:middle; margin-right:10px;"> ](https://bionomad.github.io/tidyexposomics/)
-
-
+::: {.popup}
+[![](./img/igf1r.jpg){height=200px style="border:0.75px solid #cccccc; border-radius:8px; padding:10px;"}](https://doi.org/10.1038/s41379-022-01126-3){target="_blank"}
+<div class="popuptext">
+**Activating IGF1R hotspot insertions**  
+A novel, potentially targetable molecular subtype of adenoid cystic carcinoma.
+</div>
 :::
 
-
-#### Cancer Informatics
-
-::: {.callout-note appearance="minimal"}
-
-**Activating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma**: Identification of a novel driver mutation in adenoid cystic carcinoma.
-
-[<img src="./img/igf1r.jpg" height="150" style="vertical-align:middle; margin-right:10px;"> ](https://doi.org/10.1038/s41379-022-01126-3)
-
-
-:::
-
-:::

@@ -3,6 +3,13 @@ title: "CV"
 toc: true
 ---
 
+::: {.center}
+[![](./img/orchid.svg){height=30px}](https://orcid.org/0009-0000-5994-2236) 
+[![](./img/google_scholar.png){height=30px}](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en) 
+[![](./img/github.jpeg){height=30px}](https://github.com/BioNomad) 
+[![](./img/linkedin.png){height=30px}](https://www.linkedin.com/in/jason-laird-78b9b116b/)
+:::
+
 ## Research Interests
 
 I am interested in leveraging high-throughput biological data to understand neurological disorders and chronic disease. Specifically, I am currently researching how sex and developmental stage affect multi-omics profiles of Autism Spectrum Disorder (ASD). Additionally, I am creating new methods to characterize the relationship between exposure, health outcomes, and multi-omics signatures. 
@@ -262,7 +269,7 @@ Issued Oct 2022
 
 ## Publications
 
-[ORCHiD <img src="./img/orchid.svg" height="30" />](https://orcid.org/0009-0000-5994-2236){.btn .btn-primary} [Google Scholar <img src="./img/google_scholar.png" height="30" />](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en){.btn .btn-primary}
+[ <img src="./img/orchid.svg" height="30" />](https://orcid.org/0009-0000-5994-2236) [  <img src="./img/google_scholar.png" height="30" />](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en)
 
 
 ::: {.callout-note appearance="minimal"}

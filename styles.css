@@ -1,18 +1,22 @@
 /* Navbar */
 .sidebar-navigation{
-  background-color: #090b36 !important;
+  background-color: #2c2f46ff !important;
+  color:white;
 }
 
 /* Target the Quarto navbar wrapper */
 .quarto-navbar {
-  background-color: #090b36 !important;
+  background-color: #2c2f46ff!important;
+}
+.a {
+    color: white;
 }
 
 /* Ensure the inner Bootstrap navbar also respects it */
 .navbar .navbar,
 .navbar .navbar-collapse,
 .navbar .navbar-nav {
-  background-color: #090b36 !important;
+  background-color: #2c2f46ff!important;
 }
 
 /* Navbar brand (site title/logo) */
@@ -31,8 +35,19 @@
 }
 /* Buttons */
 .btn-primary {
-  background-color: #090b36 !important;
-  border-color: #090b36 !important;
+  background-color: #2c2f46ff!important;
+  border-color: #2c2f46ff!important;
+  
+}
+a {
+  color: white !important;
+}
+
+.btn-secondary, .btn-secondary-a {
+  background-color: #4b4e69ff!important;
+  border-color: #565869ff!important;
+  border-width: 2px;
+  color: white) !important;
   
 }
 
@@ -41,13 +56,21 @@
   color: #ffffff !important;
 }
 
+.link-secondary {
+  color: black !important;
+}
+
 .quarto-secondary-nav {
-  background-color: #090b36 !important;
+  background-color: #2c2f46ff!important;
   color: white !important;
 }
 
 .quarto-btn-toggle     {
-  background-color: #090b36 !important;
+  background-color: #2c2f46ff!important;
+  color: white !important;
+}
+
+.sidebar-item-text    {
   color: white !important;
 }
 
@@ -60,23 +83,19 @@
   color: white !important;
 }
 
-a {
-  color: white !important;
-}
-
 .callout a {
   color: #0073e6 !important; /* your primary blue */
   text-decoration: underline;
 }
 
 .nav-link  {
-  color: #090b36 !important;
+  color: #2c2f46ff!important;
 }
 
 /* Make the active link stand out with green background + white text */
 #TOC .nav-link.active {
   color: white !important;
-  background-color: #090b36 !important;
+  background-color: #2c2f46ff!important;
   border-radius: 4px;
   padding: 2px 6px;
 }
@@ -92,7 +111,7 @@ a {
 
 /* Custom callout with teal border + light teal background */
 .callout-note {
-  border-left: 4px solid #090b36 !important;   /* left border */
+  border-left: 4px solid #2c2f46ff!important;   /* left border */
 }
 
 .callout p {
@@ -110,3 +129,37 @@ a {
     font-size: 18px;
 }
 
+
+.popup {
+  position: relative;
+  display: inline-block;
+}
+
+.popup img {
+  display: block;
+  cursor: pointer;
+}
+
+/* start hidden */
+.popup .popuptext {
+  visibility: hidden;
+  opacity: 0;
+  width: 220px;
+  background-color: #2c2f46ff;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px;
+  position: absolute;
+  bottom: 125%; /* above image */
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.3s ease;
+  z-index: 1;
+}
+
+/* 🔑 hover only when the image is hovered */
+.popup:hover .popuptext {
+  visibility: visible;
+  opacity: 1;
+}
