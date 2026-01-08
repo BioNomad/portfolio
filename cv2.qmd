@@ -1,0 +1,335 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Jason Laird, PhD Candidate, MS"
+toc: true
+---
+
+<a href="/files/jason_laird_cv.pdf" download class="btn btn-outline-primary btn-lg" 
+style="background: #e7edf7ff;color: #000000ff; margin-left:10px;align: right; float: right;border: 0.5px solid #404346ff;">
+  <i class="bi bi-download"></i> Download CV
+</a>
+
+::: {.center}
+[![](./img/orchid.svg){height=30px}](https://orcid.org/0009-0000-5994-2236) 
+[![](./img/google_scholar.png){height=30px}](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en) 
+[![](./img/github.jpeg){height=30px}](https://github.com/BioNomad) 
+[![](./img/linkedin.png){height=30px}](https://www.linkedin.com/in/jason-laird-78b9b116b/)
+:::
+
+## Summary
+
+Computational biologist specializing in multi-omics, single-cell and spatial methods, exposure-driven toxicology, and disease modeling. Experienced in building end-to-end analytical pipelines integrating omics and exposure data to generate interpretable insights. Strong background in R and Python, with applied expertise in statistical and machine-learning methods for high-dimensional data, scalable HPC workflows, and reproducible translational bioinformatics.
+
+## Skills
+
+:::: {.columns}
+
+::: {.column}
+
+::: {.callout-note appearance="minimal"}
+<i class="bi bi-file-code-fill" style="float:right;height:100px;"></i>
+
+**Software & Computing**
+
+* R / Shiny  
+* Python  
+* Linux / Bash  
+* High-performance computing (HPC), SLURM  
+* HTML / CSS  
+* Version control, Git, Docker
+:::
+
+::: {.callout-note appearance="minimal"}
+<i class="bi bi-file-earmark-fill" style="float:right;" height="40"></i>
+
+**Domain Expertise**
+
+* Bioinformatics  
+* Toxicology  
+* Exposomics  
+* Neuroimmunology  
+* Pharmacology
+:::
+
+:::
+
+::: {.column}
+
+::: {.callout-note appearance="minimal"}
+<i class="bi bi-bar-chart-fill" style="float:right;" height="40"></i>
+
+**Data Analysis & Methods**
+
+* Single-cell and single-nucleus RNA-seq  
+* Spatial transcriptomics  
+* Bulk omics: RNA-seq, DNA methylation, proteomics, metabolomics  
+* Data quality control and exploratory data analysis  
+* Statistical modeling and applied machine-learning methods
+:::
+
+:::
+
+::::
+
+## Education
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/jhu.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**PhD, Toxicology, Physiology and Molecular Mechanisms**  
+*Johns Hopkins University*  
+Expected 2027
+:::
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/brandeis.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**MS, Bioinformatics**  
+*Brandeis University*  
+June 2021
+:::
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/binghamton.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**BA, Biological Sciences**  
+*SUNY Binghamton*  
+May 2016
+:::
+
+## Professional Experience
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/jhu.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**Graduate Researcher**  
+*Johns Hopkins University · Baltimore, MD*  
+August 2023 – Present  
+
+- Conduct bioinformatics research on environmental exposure effects on neurodevelopment using transcriptomic, epigenomic, and multi-omics data  
+- Collaborate with toxicologists, neuroscientists, and epidemiologists  
+- Assist in teaching environmental health courses, mentoring students, and grading  
+- Present research findings and contribute to manuscripts
+:::
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/tufts.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**Bioinformatics Scientist**  
+*Tufts University · Medford, MA*  
+January 2022 – August 2023  
+
+- Developed omics workflows and curated reference data for Tufts HPC and Galaxy Server  
+- Consulted on workflow design and technical optimization  
+- Developed and led omics analysis and visualization seminars
+:::
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/fmi.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**Clinical Bioinformatics Analyst**  
+*Foundation Medicine · Cambridge, MA*  
+January 2021 – December 2021  
+
+- Led development of R Shiny applications for data analysis and visualization  
+- Analyzed clinical oncology NGS data to annotate actionable genomic aberrations  
+- Collaborated across disciplines to deliver research projects and process improvements
+:::
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/fmi.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**Histology Systems Specialist**  
+*Foundation Medicine · Cambridge, MA*  
+July 2020 – December 2020  
+
+- Developed and analyzed performance metrics using R, Python, and Power BI  
+- Tested and implemented technology solutions for evolving laboratory workflows  
+- Updated SOPs
+:::
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/fmi.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**Histotechnologist**  
+*Foundation Medicine · Cambridge, MA*  
+October 2018 – July 2020  
+
+- Operated in CLIA/CAP environments assessing tumor composition  
+- Validated laboratory processes and revised SOPs
+:::
+
+::: {.callout-note appearance="minimal"}
+<img src="./img/covance.jpeg" height="40" style="float:right; margin-left:10px;"/>
+
+**Pathology Technician**  
+*Covance · Madison, WI*  
+May 2016 – August 2018  
+
+- Prepared tissue samples for microtomy and pathological assessment  
+- Resolved GLP/SOP compliance and workflow issues
+:::
+
+## Publications
+
+[<img src="./img/orchid.svg" height="30" />](https://orcid.org/0009-0000-5994-2236)
+[<img src="./img/google_scholar.png" height="30" />](https://scholar.google.com/citations?user=nPusJFYAAAAJ&hl=en)
+
+::: {.callout-note appearance="minimal"}
+van der Molen T, Spaeth A, Chini M, Hernandez S, Kaurala GA, Schweiger HE, Duncan C, McKenna S, Geng J, Lim M, Bartram J, Gänswein T, Dendukuri A, Zhang Z, Gonzalez-Ferrer J, Bhaskaran-Nair K, Morson AL, Harder CRK, Petzold LR, Alam El Din D-M, **Laird J**, Schenke M, Smirnova L, Colquitt BM, Mostajo-Radji MA, Hansma PK, Teodorescu M, Hierlemann A, Hengen KB, Hanganu-Opatz IL, Kosik KS, Sharf T.  
+**Preconfigured neuronal firing sequences in human brain organoids.**  
+*Nature Neuroscience*, 2025. https://doi.org/10.1038/s41593-025-02111-0
+:::
+
+::: {.callout-note appearance="minimal"}
+**Laird J**, Schenke M, Rittenhouse A, Kucheryavenko V, Neuhaus W, Chen O, Sabunciyan S, Maertens A, Smirnova L.  
+**Genetic background and sex modulate androgen responses in human brain microphysiological systems.**  
+*bioRxiv*, 2025. https://doi.org/10.64898/2025.12.03.692130
+:::
+
+::: {.callout-note appearance="minimal"}
+Rittenhouse A, Krall C, Plotkin J, Alam El Din D-M, Kincaid B, **Laird J**, Smirnova L.  
+**Microglia-containing neural organoids as brain microphysiological systems for long-term culture.**  
+*Frontiers in Cellular Neuroscience*, 2025;19:1616470. https://doi.org/10.3389/fncel.2025.1616470
+:::
+
+::: {.callout-note appearance="minimal"}
+Alam El Din D-M, Moenkemoeller L, Loeffler A, Habibollahi F, Schenkman J, Mitra A, van der Molen T, Ding L, **Laird J**, Schenke M, Johnson EC, Kagan BJ, Hartung T, Smirnova L.  
+**Human neural organoid microphysiological systems show the building blocks necessary for basic learning and memory.**  
+*Communications Biology*, 2025;8:1237. https://doi.org/10.1038/s42003-025-08632-5
+:::
+
+::: {.callout-note appearance="minimal"}
+Ali SA, Perera G, **Laird J**, Batorsky R, Maron MS, Rivas VN, Stern JA, Harris S, Chin MT.  
+**Single cell transcriptomic profiling of MYBPC3-associated hypertrophic cardiomyopathy across species reveals conservation of biological process but not gene expression.**  
+*Journal of the American Heart Association*, 2025;14:e035780. https://doi.org/10.1161/JAHA.124.035780
+:::
+
+::: {.callout-note appearance="minimal"}
+Nagarajan A, **Laird J**, Ugochukwu O, Reppe S, Gautvik K, Ross RD, Bennett DA, Rosen C, Kiel DP, Higginbotham LA, Seyfried NT, Lary CW.  
+**Network analysis of brain and bone tissue transcripts reveals shared molecular mechanisms underlying Alzheimer’s disease and related dementias and osteoporosis.**  
+*Journal of Gerontology: Biological Sciences*, 2024;79. https://doi.org/10.1093/gerona/glae211
+:::
+
+::: {.callout-note appearance="minimal"}
+**Laird J**, Perera G, Batorsky R, Wang H, Arkun K, Chin MT.  
+**Spatial transcriptomic analysis of focal and normal areas of myocyte disarray in human hypertrophic cardiomyopathy.**  
+*International Journal of Molecular Sciences*, 2023;24:12625. https://doi.org/10.3390/ijms241612625
+:::
+
+::: {.callout-note appearance="minimal"}
+Saad MK, Yuen JSK Jr, Joyce CM, Li X, Lim T, Wolfson TL, Wu J, **Laird J**, Vissapragada S, Calkins OP, Ali A, Kaplan DL.  
+**Continuous fish muscle cell line with capacity for myogenic and adipogenic-like phenotypes.**  
+*Scientific Reports*, 2023;13:5098. https://doi.org/10.1038/s41598-023-31822-2
+:::
+
+::: {.callout-note appearance="minimal"}
+Chin M, Codden C, Larson A, Perera G, **Laird J**, Batorsky R, Awata J.  
+**Altered intercellular communication in human hypertrophic cardiomyopathy inferred from single nuclei RNA-seq, ligand–receptor gene expression analysis and spatial transcriptomics.**  
+*Journal of Molecular and Cellular Cardiology*, 2022;173:S45. https://doi.org/10.1016/j.yjmcc.2022.08.090
+:::
+
+::: {.callout-note appearance="minimal"}
+**Laird J**, Margolis M, Janovitz T, Mata DA, Montesion M, Lee JK, Madison RW, Schrock AB, Tukachinsky H, Allen JM, Erlich R, Hiemenz MC, Huang RSP, Elvin J, Vergilio J-A, Lin DI, Ross J, Oxnard G, Decker B.  
+**Activating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma.**  
+*Modern Pathology*, 2022;35:1618–1623. https://doi.org/10.1038/s41379-022-01126-3
+:::
+
+::: {.callout-note appearance="minimal"}
+**Laird J**, Maertens A.  
+**Personalized perturbation profiles reveal concordance between autism blood transcriptome datasets.**  
+*bioRxiv*, 2021. https://doi.org/10.1101/2021.01.25.427953
+:::
+
+## Podium and Poster Presentations
+
+::: {.callout-note appearance="minimal"}
+**Transcriptomic concordance among ASD in vitro and in vivo models**  
+ASHG · October 2025
+:::
+
+::: {.callout-note appearance="minimal"}
+**The last mile challenge: Overcoming socio-technical barriers for AI implementation**  
+HESI Global · June 2025
+:::
+
+::: {.callout-note appearance="minimal"}
+**Revealing the Impact of Viral Exposure on Autism Through Transcriptomics**  
+JHSPH EHE Doctoral Student Seminar · April 2025
+:::
+
+::: {.callout-note appearance="minimal"}
+**Reducing Animal Research with Public Data Mining**  
+MSU Animal and Natural Resource Law Review Symposium · March 2025
+:::
+
+## Teaching Experience
+
+::: {.callout-note appearance="minimal"}
+**Molecular Toxicology Teaching Assistant**  
+Johns Hopkins University · 2024–2025
+:::
+
+::: {.callout-note appearance="minimal"}
+**Introduction to Risk Sciences Teaching Assistant**  
+Johns Hopkins University · 2024
+:::
+
+::: {.callout-note appearance="minimal"}
+**Introduction to Bioinformatics – Guest Lecturer**  
+Tufts University · 2022–2023
+:::
+
+::: {.callout-note appearance="minimal"}
+**Protein Engineering – Guest Lecturer**  
+Tufts University · 2022–2023
+:::
+
+::: {.callout-note appearance="minimal"}
+**Introduction to 16S Metabarcoding – Guest Lecturer**  
+Tufts University · 2022
+:::
+
+::: {.callout-note appearance="minimal"}
+**Animal Histology Teaching Assistant**  
+Binghamton University · 2015
+:::
+
+## Awards and Honors
+
+::: {.callout-note appearance="minimal"}
+**Best Toxicology Poster Award**  
+Multi-omics and Exposomics Integration Reveals Molecular Insights into Childhood Asthma  
+JSPH Research Retreat · 2025
+:::
+
+## Memberships
+
+::: {.callout-note appearance="minimal"}
+International Society for Computational Biology (ISCB) · 2025–Present  
+American Society of Human Genetics (ASHG) · 2025–Present  
+Carpentries Instructor · 2022–Present
+:::
+
+## Mentorship and Training Experience
+
+::: {.callout-note appearance="minimal"}
+**Computational Toxicology Intern Program Mentor**  
+Johns Hopkins University · Summer 2025
+:::
+
+::: {.callout-note appearance="minimal"}
+**Doctoral Student Mentor**  
+Tufts University · 2022–2023
+:::
+
+::: {.callout-note appearance="minimal"}
+**Clinical Bioinformatics Intern Mentor**  
+Foundation Medicine · Summer 2021
+:::
+
+::: {.callout-note appearance="minimal"}
+**Histotechnologist & Pathology Technician Trainer**  
+Foundation Medicine · 2019–2020  
+Covance · 2017–2018
+:::

@@ -379,3 +379,11 @@ DOI: [10.1101/2021.01.25.427953](https://doi.org/10.1101/2021.01.25.427953)
 
 Contributors: **Jason Laird**; Alexandra Maertens
 :::
+
+::: {.popup}
+[![](./img/rosmap.jpg){height=200px style="border:0.75px solid #cccccc; border-radius:8px; padding:10px;"}](https://academic.oup.com/biomedgerontology/article/79/11/glae211/7743121){target="_blank"}
+<div class="popuptext">
+**Alzheimer's Disease and Osteoporosis**  
+Network Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis.
+</div>
+:::

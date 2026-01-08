@@ -1,6 +1,48 @@
 ---
-title: "Jason Laird, Ph.D. Candidate, M.Sc." 
+title: "" 
+toc: false
 ---
+
+<style>
+body {
+  background-image: 
+    url("./img/net2.png"),
+    url("./img/net2.png");
+  background-repeat: no-repeat, no-repeat;
+  background-position: right top, left bottom;
+  background-size: 14%, 14%;
+  background-attachment: fixed, fixed;
+}
+</style>
+
+::: {.columns}
+::: {.column}
+<figure>
+  <img src="./img/headshot.png" alt="my img"
+ width="250" class="center-img"/>
+ <h3 style="text-align:left;" > 
+ Jason Laird, PhD Candidate, MS
+ </h3>
+<figcaption style="text-align:left;font-size:18px;color:black;" > 
+  Department of Environmental Health and Engineering
+ </figcaption>
+ <figcaption style="text-align:left;font-size:18px;color:black;" > 
+  Johns Hopkins Bloomberg School of Public Health
+ </figcaption>
+
+</figure>
+
+
+:::
+
+::: {.column}
+
+### Biography
+
+I am a computational biologist and toxicologist with a passion for problem-solving. 
+
+I specialize in developing and applying computational methods to understand the complex interactions between exposures, molecular changes, and disease outcomes in neurology and immunology.
+
 
 ::: {.center}
 [![](./img/orchid.svg){height=30px}](https://orcid.org/0009-0000-5994-2236) 
@@ -8,17 +50,10 @@ title: "Jason Laird, Ph.D. Candidate, M.Sc."
 [![](./img/github.jpeg){height=30px}](https://github.com/BioNomad) 
 [![](./img/linkedin.png){height=30px}](https://www.linkedin.com/in/jason-laird-78b9b116b/)
 :::
+:::
+:::
 
-<img src="./img/headshot.png" style="float:right;margin:0 0 0em 0em;" width="217"/>
-
-#### Computational Biologist | Multi-Omics & AI for Translational Medicine
-
-Hi, My name is Jason and I’m a computational biologist who works at the intersection of biology and data. I’m passionate about turning complex datasets into insights for toxicology, neuroimmunology, and translational medicine.
-
-
-
-#### Selected Projects
-<hr>
+## Projects
 
 ::: {.popup}
 [![](./img/logo.png){height=200px style="border:0.75px solid #cccccc; border-radius:8px; padding:10px;"}](https://bionomad.github.io/tidyexposomics/){target="_blank"}
@@ -29,10 +64,10 @@ An R package to characterize exposures, outcomes, and multi-omics profiles.
 :::
 
 ::: {.popup}
-[![](./img/rosmap.jpg){height=200px style="border:0.75px solid #cccccc; border-radius:8px; padding:10px;"}](https://academic.oup.com/biomedgerontology/article/79/11/glae211/7743121){target="_blank"}
+[![](./img/dht.png){height=200px style="border:0.75px solid #cccccc; border-radius:8px; padding:10px;"}](https://www.biorxiv.org/content/10.64898/2025.12.03.692130v1){target="_blank"}
 <div class="popuptext">
-**Alzheimer's Disease and Osteoporosis**  
-Network Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis.
+**DHT-induced Omics Changes in Brain Organoids**  
+Genetic background and sex modulate androgen responses in human brain microphysiological system
 </div>
 :::
 
@@ -44,3 +79,9 @@ A novel, potentially targetable molecular subtype of adenoid cystic carcinoma.
 </div>
 :::
 
+## Contact
+
+**LinkedIn:** [https://www.linkedin.com/in/jason-laird-78b9b116b/](https://www.linkedin.com/in/jason-laird-78b9b116b/)
+
+
+**Email:** jasonlaird5353@gmail.com

@@ -1,0 +1,12 @@
+---
+title: "tidyexposomics"
+description: "tidyexposomics is now on Bioconductor!"
+author: "Jason Laird"
+date: "01/08/2026"
+categories:
+  - news
+  - code
+  - analysis
+---
+
+[![](../img/logo.png){height=200px align=right}](https://bionomad.github.io/tidyexposomics/){target="_blank"}

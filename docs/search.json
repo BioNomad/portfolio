@@ -1,5 +1,82 @@
 [
   {
+    "objectID": "cv2.html",
+    "href": "cv2.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "cv2.html#summary",
+    "href": "cv2.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "Summary",
+    "text": "Summary\nComputational biologist specializing in multi-omics, single-cell and spatial methods, exposure-driven toxicology, and disease modeling. Experienced in building end-to-end analytical pipelines integrating omics and exposure data to generate interpretable insights. Strong background in R and Python, with applied expertise in statistical and machine-learning methods for high-dimensional data, scalable HPC workflows, and reproducible translational bioinformatics."
+  },
+  {
+    "objectID": "cv2.html#skills",
+    "href": "cv2.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\n\n\nSoftware & Computing\n\nR / Shiny\n\nPython\n\nLinux / Bash\n\nHigh-performance computing (HPC), SLURM\n\nHTML / CSS\n\nVersion control, Git, Docker\n\n\n\n\n\n\n\n\n\n\n\nDomain Expertise\n\nBioinformatics\n\nToxicology\n\nExposomics\n\nNeuroimmunology\n\nPharmacology\n\n\n\n\n\n\n\n\n\n\n\n\nData Analysis & Methods\n\nSingle-cell and single-nucleus RNA-seq\n\nSpatial transcriptomics\n\nBulk omics: RNA-seq, DNA methylation, proteomics, metabolomics\n\nData quality control and exploratory data analysis\n\nStatistical modeling and applied machine-learning methods"
+  },
+  {
+    "objectID": "cv2.html#education",
+    "href": "cv2.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\nPhD, Toxicology, Physiology and Molecular Mechanisms\nJohns Hopkins University\nExpected 2027\n\n\n\n\n\n\n\n\n\n\nMS, Bioinformatics\nBrandeis University\nJune 2021\n\n\n\n\n\n\n\n\n\n\nBA, Biological Sciences\nSUNY Binghamton\nMay 2016"
+  },
+  {
+    "objectID": "cv2.html#professional-experience",
+    "href": "cv2.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\n\n\n\n\nGraduate Researcher\nJohns Hopkins University · Baltimore, MD\nAugust 2023 – Present\n\nConduct bioinformatics research on environmental exposure effects on neurodevelopment using transcriptomic, epigenomic, and multi-omics data\n\nCollaborate with toxicologists, neuroscientists, and epidemiologists\n\nAssist in teaching environmental health courses, mentoring students, and grading\n\nPresent research findings and contribute to manuscripts\n\n\n\n\n\n\n\n\n\n\n\nBioinformatics Scientist\nTufts University · Medford, MA\nJanuary 2022 – August 2023\n\nDeveloped omics workflows and curated reference data for Tufts HPC and Galaxy Server\n\nConsulted on workflow design and technical optimization\n\nDeveloped and led omics analysis and visualization seminars\n\n\n\n\n\n\n\n\n\n\n\nClinical Bioinformatics Analyst\nFoundation Medicine · Cambridge, MA\nJanuary 2021 – December 2021\n\nLed development of R Shiny applications for data analysis and visualization\n\nAnalyzed clinical oncology NGS data to annotate actionable genomic aberrations\n\nCollaborated across disciplines to deliver research projects and process improvements\n\n\n\n\n\n\n\n\n\n\n\nHistology Systems Specialist\nFoundation Medicine · Cambridge, MA\nJuly 2020 – December 2020\n\nDeveloped and analyzed performance metrics using R, Python, and Power BI\n\nTested and implemented technology solutions for evolving laboratory workflows\n\nUpdated SOPs\n\n\n\n\n\n\n\n\n\n\n\nHistotechnologist\nFoundation Medicine · Cambridge, MA\nOctober 2018 – July 2020\n\nOperated in CLIA/CAP environments assessing tumor composition\n\nValidated laboratory processes and revised SOPs\n\n\n\n\n\n\n\n\n\n\n\nPathology Technician\nCovance · Madison, WI\nMay 2016 – August 2018\n\nPrepared tissue samples for microtomy and pathological assessment\n\nResolved GLP/SOP compliance and workflow issues"
+  },
+  {
+    "objectID": "cv2.html#publications",
+    "href": "cv2.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n \n\n\n\n\n\n\nvan der Molen T, Spaeth A, Chini M, Hernandez S, Kaurala GA, Schweiger HE, Duncan C, McKenna S, Geng J, Lim M, Bartram J, Gänswein T, Dendukuri A, Zhang Z, Gonzalez-Ferrer J, Bhaskaran-Nair K, Morson AL, Harder CRK, Petzold LR, Alam El Din D-M, Laird J, Schenke M, Smirnova L, Colquitt BM, Mostajo-Radji MA, Hansma PK, Teodorescu M, Hierlemann A, Hengen KB, Hanganu-Opatz IL, Kosik KS, Sharf T.\nPreconfigured neuronal firing sequences in human brain organoids.\nNature Neuroscience, 2025. https://doi.org/10.1038/s41593-025-02111-0\n\n\n\n\n\n\n\n\n\nLaird J, Schenke M, Rittenhouse A, Kucheryavenko V, Neuhaus W, Chen O, Sabunciyan S, Maertens A, Smirnova L.\nGenetic background and sex modulate androgen responses in human brain microphysiological systems.\nbioRxiv, 2025. https://doi.org/10.64898/2025.12.03.692130\n\n\n\n\n\n\n\n\n\nRittenhouse A, Krall C, Plotkin J, Alam El Din D-M, Kincaid B, Laird J, Smirnova L.\nMicroglia-containing neural organoids as brain microphysiological systems for long-term culture.\nFrontiers in Cellular Neuroscience, 2025;19:1616470. https://doi.org/10.3389/fncel.2025.1616470\n\n\n\n\n\n\n\n\n\nAlam El Din D-M, Moenkemoeller L, Loeffler A, Habibollahi F, Schenkman J, Mitra A, van der Molen T, Ding L, Laird J, Schenke M, Johnson EC, Kagan BJ, Hartung T, Smirnova L.\nHuman neural organoid microphysiological systems show the building blocks necessary for basic learning and memory.\nCommunications Biology, 2025;8:1237. https://doi.org/10.1038/s42003-025-08632-5\n\n\n\n\n\n\n\n\n\nAli SA, Perera G, Laird J, Batorsky R, Maron MS, Rivas VN, Stern JA, Harris S, Chin MT.\nSingle cell transcriptomic profiling of MYBPC3-associated hypertrophic cardiomyopathy across species reveals conservation of biological process but not gene expression.\nJournal of the American Heart Association, 2025;14:e035780. https://doi.org/10.1161/JAHA.124.035780\n\n\n\n\n\n\n\n\n\nNagarajan A, Laird J, Ugochukwu O, Reppe S, Gautvik K, Ross RD, Bennett DA, Rosen C, Kiel DP, Higginbotham LA, Seyfried NT, Lary CW.\nNetwork analysis of brain and bone tissue transcripts reveals shared molecular mechanisms underlying Alzheimer’s disease and related dementias and osteoporosis.\nJournal of Gerontology: Biological Sciences, 2024;79. https://doi.org/10.1093/gerona/glae211\n\n\n\n\n\n\n\n\n\nLaird J, Perera G, Batorsky R, Wang H, Arkun K, Chin MT.\nSpatial transcriptomic analysis of focal and normal areas of myocyte disarray in human hypertrophic cardiomyopathy.\nInternational Journal of Molecular Sciences, 2023;24:12625. https://doi.org/10.3390/ijms241612625\n\n\n\n\n\n\n\n\n\nSaad MK, Yuen JSK Jr, Joyce CM, Li X, Lim T, Wolfson TL, Wu J, Laird J, Vissapragada S, Calkins OP, Ali A, Kaplan DL.\nContinuous fish muscle cell line with capacity for myogenic and adipogenic-like phenotypes.\nScientific Reports, 2023;13:5098. https://doi.org/10.1038/s41598-023-31822-2\n\n\n\n\n\n\n\n\n\nChin M, Codden C, Larson A, Perera G, Laird J, Batorsky R, Awata J.\nAltered intercellular communication in human hypertrophic cardiomyopathy inferred from single nuclei RNA-seq, ligand–receptor gene expression analysis and spatial transcriptomics.\nJournal of Molecular and Cellular Cardiology, 2022;173:S45. https://doi.org/10.1016/j.yjmcc.2022.08.090\n\n\n\n\n\n\n\n\n\nLaird J, Margolis M, Janovitz T, Mata DA, Montesion M, Lee JK, Madison RW, Schrock AB, Tukachinsky H, Allen JM, Erlich R, Hiemenz MC, Huang RSP, Elvin J, Vergilio J-A, Lin DI, Ross J, Oxnard G, Decker B.\nActivating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma.\nModern Pathology, 2022;35:1618–1623. https://doi.org/10.1038/s41379-022-01126-3\n\n\n\n\n\n\n\n\n\nLaird J, Maertens A.\nPersonalized perturbation profiles reveal concordance between autism blood transcriptome datasets.\nbioRxiv, 2021. https://doi.org/10.1101/2021.01.25.427953"
+  },
+  {
+    "objectID": "cv2.html#podium-and-poster-presentations",
+    "href": "cv2.html#podium-and-poster-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Podium and Poster Presentations",
+    "text": "Podium and Poster Presentations\n\n\n\n\n\n\nTranscriptomic concordance among ASD in vitro and in vivo models\nASHG · October 2025\n\n\n\n\n\n\n\n\n\nThe last mile challenge: Overcoming socio-technical barriers for AI implementation\nHESI Global · June 2025\n\n\n\n\n\n\n\n\n\nRevealing the Impact of Viral Exposure on Autism Through Transcriptomics\nJHSPH EHE Doctoral Student Seminar · April 2025\n\n\n\n\n\n\n\n\n\nReducing Animal Research with Public Data Mining\nMSU Animal and Natural Resource Law Review Symposium · March 2025"
+  },
+  {
+    "objectID": "cv2.html#teaching-experience",
+    "href": "cv2.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n\n\n\n\n\nMolecular Toxicology Teaching Assistant\nJohns Hopkins University · 2024–2025\n\n\n\n\n\n\n\n\n\nIntroduction to Risk Sciences Teaching Assistant\nJohns Hopkins University · 2024\n\n\n\n\n\n\n\n\n\nIntroduction to Bioinformatics – Guest Lecturer\nTufts University · 2022–2023\n\n\n\n\n\n\n\n\n\nProtein Engineering – Guest Lecturer\nTufts University · 2022–2023\n\n\n\n\n\n\n\n\n\nIntroduction to 16S Metabarcoding – Guest Lecturer\nTufts University · 2022\n\n\n\n\n\n\n\n\n\nAnimal Histology Teaching Assistant\nBinghamton University · 2015"
+  },
+  {
+    "objectID": "cv2.html#awards-and-honors",
+    "href": "cv2.html#awards-and-honors",
+    "title": "Curriculum Vitae",
+    "section": "Awards and Honors",
+    "text": "Awards and Honors\n\n\n\n\n\n\nBest Toxicology Poster Award\nMulti-omics and Exposomics Integration Reveals Molecular Insights into Childhood Asthma\nJSPH Research Retreat · 2025"
+  },
+  {
+    "objectID": "cv2.html#memberships",
+    "href": "cv2.html#memberships",
+    "title": "Curriculum Vitae",
+    "section": "Memberships",
+    "text": "Memberships\n\n\n\n\n\n\nInternational Society for Computational Biology (ISCB) · 2025–Present\nAmerican Society of Human Genetics (ASHG) · 2025–Present\nCarpentries Instructor · 2022–Present"
+  },
+  {
+    "objectID": "cv2.html#mentorship-and-training-experience",
+    "href": "cv2.html#mentorship-and-training-experience",
+    "title": "Curriculum Vitae",
+    "section": "Mentorship and Training Experience",
+    "text": "Mentorship and Training Experience\n\n\n\n\n\n\nComputational Toxicology Intern Program Mentor\nJohns Hopkins University · Summer 2025\n\n\n\n\n\n\n\n\n\nDoctoral Student Mentor\nTufts University · 2022–2023\n\n\n\n\n\n\n\n\n\nClinical Bioinformatics Intern Mentor\nFoundation Medicine · Summer 2021\n\n\n\n\n\n\n\n\n\nHistotechnologist & Pathology Technician Trainer\nFoundation Medicine · 2019–2020\nCovance · 2017–2018"
+  },
+  {
     "objectID": "cv.html#research-interests",
     "href": "cv.html#research-interests",
     "title": "CV",
@@ -46,13 +123,34 @@
     "href": "cv.html#publications",
     "title": "CV",
     "section": "Publications",
-    "text": "Publications\n \n\n\n\n\n\n\nHuman neural organoid microphysiological systems show the building blocks necessary for basic learning and memory\nCommunications Biology · 2025-08-16 | Journal article\nDOI: 10.1038/s42003-025-08632-5\nContributors: Dowlette-Mary Alam El Din; Leah Moenkemoeller; Alon Loeffler; Forough Habibollahi; Jack Schenkman; Amitav Mitra; Tjitse van der Molen; Lixuan Ding; Jason Laird; Maren Schenke et al.\n\n\n\n\n\n\n\n\n\nSingle Cell Transcriptomic Profiling of MYBPC3-Associated Hypertrophic Cardiomyopathy Across Species Reveals Conservation of Biological Process But Not Gene Expression\nJournal of the American Heart Association · 2025-01-07 | Journal article\nDOI: 10.1161/jaha.124.035780\nContributors: Samia A. Ali; Gayani Perera; Jason Laird; Rebecca Batorsky; Martin S. Maron; Victor N. Rivas; Joshua A. Stern; Samantha Harris; Michael T. Chin\n\n\n\n\n\n\n\n\n\nNetwork Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis\nThe Journals of Gerontology, Series A: Biological Sciences and Medical Sciences · 2024-11-01 | Journal article\nDOI: 10.1093/gerona/glae211\nContributors: Archana Nagarajan; Jason Laird; Obiadada Ugochukwu; Sjur Reppe; Kaare Gautvik; Ryan D Ross; David A Bennett; Clifford Rosen; Douglas P Kiel; Lenora A Higginbotham et al.\n\n\n\n\n\n\n\n\n\nHuman Neural Organoid Microphysiological Systems Show the Building Blocks Necessary for Basic Learning and Memory\nPreprint · 2024-09-19\nDOI: 10.1101/2024.09.17.613333\nContributors: Dowlette-Mary Alam El Din; Leah Moenkemoeller; Alon Loeffler; Forough Habibollahi; Jack Schenkman; Amitav Mitra; Tjitse van der Molen; Lixuan Ding; Jason Laird; Maren Schenke et al.\n\n\n\n\n\n\n\n\n\nProtosequences in brain organoids model intrinsic brain states\nPreprint · 2023-12-30\nDOI: 10.1101/2023.12.29.573646\nContributors: Tjitse van der Molen; Alex Spaeth; Mattia Chini; Sebastian Hernandez; Gregory A. Kaurala; Hunter E. Schweiger; Cole Duncan; Sawyer McKenna; Jinghui Geng; Max Lim et al.; Jason Laird\n\n\n\n\n\n\n\n\n\nTranscriptomic network analysis of brain and bone reveals shared molecular mechanisms underlying Alzheimer’s Disease and related dementias (ADRD) and Osteoporosis\nPreprint · 2023-10-28\nDOI: 10.1101/2023.10.26.559969\nContributors: Archana Nagarajan; Jason Laird; Obiadada Ugochukwu; Sjur Reppe; Kaare Gautvik; Ryan D. Ross; David A. Bennett; Clifford Rosen; Douglas P. Kiel; Lenora A. Higginbotham et al.\n\n\n\n\n\n\n\n\n\nSpatial Transcriptomic Analysis of Focal and Normal Areas of Myocyte Disarray in Human Hypertrophic Cardiomyopathy\nInternational Journal of Molecular Sciences · 2023-08-10 | Journal article\nDOI: 10.3390/ijms241612625\nContributors: Jason Laird; Gayani Perera; Rebecca Batorsky; Hongjie Wang; Knarik Arkun; Michael T. Chin\n\n\n\n\n\n\n\n\n\nAbstract EC.09: Single Nuclei RNA Sequencing Analysis Of Mybpc-3-Associated HCM To Identify Common Pathological Mechanisms In Human, Feline, And Murine Hearts\nCirculation Research · 2023-08-04 | Journal article\nDOI: 10.1161/res.133.suppl_1.ec.09\nContributors: Samia Ali; Gayani Perera; Jason Laird; Rebecca Batorsky; Joshua A Stern; Samantha Harris; Michael T Chin\n\n\n\n\n\n\n\n\n\nContinuous fish muscle cell line with capacity for myogenic and adipogenic-like phenotypes\nScientific Reports · 2023-03-29 | Journal article\nDOI: 10.1038/s41598-023-31822-2\nContributors: Michael K. Saad; John S. K. Yuen; Connor M. Joyce; Xinxin Li; Taehwan Lim; Talia L. Wolfson; Justin Wu; Jason Laird; Sanjana Vissapragada; Olivia P. Calkins et al.\n\n\n\n\n\n\n\n\n\nAltered intercellular communication in human hypertrophic cardiomyopathy inferred from single nuclei RNA-seq, Ligand-Receptor gene expression analysis and spatial transcriptomics\nJournal of Molecular and Cellular Cardiology · 2022-12 | Journal article\nDOI: 10.1016/j.yjmcc.2022.08.090\nContributors: Michael Chin; Christina Codden; Amy Larson; Gayani Perera; Jason Laird; Rebecca Batorsky; Junya Awata\n\n\n\n\n\n\n\n\n\nActivating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma\nModern Pathology · 2022-11 | Journal article\nDOI: 10.1038/s41379-022-01126-3\nContributors: Matthew Margolis; Tyler Janovitz; Jason Laird; Douglas A. Mata; Meagan Montesion; Jessica K. Lee; Russell W. Madison; Alexa B. Schrock; Hanna Tukachinsky; Justin M. Allen et al.\n\n\n\n\n\n\n\n\n\nPersonalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets\nPreprint · 2021-01-25\nDOI: 10.1101/2021.01.25.427953\nContributors: Jason Laird; Alexandra Maertens"
+    "text": "Publications\n \n\n\n\n\n\n\nHuman neural organoid microphysiological systems show the building blocks necessary for basic learning and memory\nCommunications Biology · 2025-08-16 | Journal article\nDOI: 10.1038/s42003-025-08632-5\nContributors: Dowlette-Mary Alam El Din; Leah Moenkemoeller; Alon Loeffler; Forough Habibollahi; Jack Schenkman; Amitav Mitra; Tjitse van der Molen; Lixuan Ding; Jason Laird; Maren Schenke et al.\n\n\n\n\n\n\n\n\n\nSingle Cell Transcriptomic Profiling of MYBPC3-Associated Hypertrophic Cardiomyopathy Across Species Reveals Conservation of Biological Process But Not Gene Expression\nJournal of the American Heart Association · 2025-01-07 | Journal article\nDOI: 10.1161/jaha.124.035780\nContributors: Samia A. Ali; Gayani Perera; Jason Laird; Rebecca Batorsky; Martin S. Maron; Victor N. Rivas; Joshua A. Stern; Samantha Harris; Michael T. Chin\n\n\n\n\n\n\n\n\n\nNetwork Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis\nThe Journals of Gerontology, Series A: Biological Sciences and Medical Sciences · 2024-11-01 | Journal article\nDOI: 10.1093/gerona/glae211\nContributors: Archana Nagarajan; Jason Laird; Obiadada Ugochukwu; Sjur Reppe; Kaare Gautvik; Ryan D Ross; David A Bennett; Clifford Rosen; Douglas P Kiel; Lenora A Higginbotham et al.\n\n\n\n\n\n\n\n\n\nHuman Neural Organoid Microphysiological Systems Show the Building Blocks Necessary for Basic Learning and Memory\nPreprint · 2024-09-19\nDOI: 10.1101/2024.09.17.613333\nContributors: Dowlette-Mary Alam El Din; Leah Moenkemoeller; Alon Loeffler; Forough Habibollahi; Jack Schenkman; Amitav Mitra; Tjitse van der Molen; Lixuan Ding; Jason Laird; Maren Schenke et al.\n\n\n\n\n\n\n\n\n\nProtosequences in brain organoids model intrinsic brain states\nPreprint · 2023-12-30\nDOI: 10.1101/2023.12.29.573646\nContributors: Tjitse van der Molen; Alex Spaeth; Mattia Chini; Sebastian Hernandez; Gregory A. Kaurala; Hunter E. Schweiger; Cole Duncan; Sawyer McKenna; Jinghui Geng; Max Lim et al.; Jason Laird\n\n\n\n\n\n\n\n\n\nTranscriptomic network analysis of brain and bone reveals shared molecular mechanisms underlying Alzheimer’s Disease and related dementias (ADRD) and Osteoporosis\nPreprint · 2023-10-28\nDOI: 10.1101/2023.10.26.559969\nContributors: Archana Nagarajan; Jason Laird; Obiadada Ugochukwu; Sjur Reppe; Kaare Gautvik; Ryan D. Ross; David A. Bennett; Clifford Rosen; Douglas P. Kiel; Lenora A. Higginbotham et al.\n\n\n\n\n\n\n\n\n\nSpatial Transcriptomic Analysis of Focal and Normal Areas of Myocyte Disarray in Human Hypertrophic Cardiomyopathy\nInternational Journal of Molecular Sciences · 2023-08-10 | Journal article\nDOI: 10.3390/ijms241612625\nContributors: Jason Laird; Gayani Perera; Rebecca Batorsky; Hongjie Wang; Knarik Arkun; Michael T. Chin\n\n\n\n\n\n\n\n\n\nAbstract EC.09: Single Nuclei RNA Sequencing Analysis Of Mybpc-3-Associated HCM To Identify Common Pathological Mechanisms In Human, Feline, And Murine Hearts\nCirculation Research · 2023-08-04 | Journal article\nDOI: 10.1161/res.133.suppl_1.ec.09\nContributors: Samia Ali; Gayani Perera; Jason Laird; Rebecca Batorsky; Joshua A Stern; Samantha Harris; Michael T Chin\n\n\n\n\n\n\n\n\n\nContinuous fish muscle cell line with capacity for myogenic and adipogenic-like phenotypes\nScientific Reports · 2023-03-29 | Journal article\nDOI: 10.1038/s41598-023-31822-2\nContributors: Michael K. Saad; John S. K. Yuen; Connor M. Joyce; Xinxin Li; Taehwan Lim; Talia L. Wolfson; Justin Wu; Jason Laird; Sanjana Vissapragada; Olivia P. Calkins et al.\n\n\n\n\n\n\n\n\n\nAltered intercellular communication in human hypertrophic cardiomyopathy inferred from single nuclei RNA-seq, Ligand-Receptor gene expression analysis and spatial transcriptomics\nJournal of Molecular and Cellular Cardiology · 2022-12 | Journal article\nDOI: 10.1016/j.yjmcc.2022.08.090\nContributors: Michael Chin; Christina Codden; Amy Larson; Gayani Perera; Jason Laird; Rebecca Batorsky; Junya Awata\n\n\n\n\n\n\n\n\n\nActivating IGF1R hotspot non-frameshift insertions define a novel, potentially targetable molecular subtype of adenoid cystic carcinoma\nModern Pathology · 2022-11 | Journal article\nDOI: 10.1038/s41379-022-01126-3\nContributors: Matthew Margolis; Tyler Janovitz; Jason Laird; Douglas A. Mata; Meagan Montesion; Jessica K. Lee; Russell W. Madison; Alexa B. Schrock; Hanna Tukachinsky; Justin M. Allen et al.\n\n\n\n\n\n\n\n\n\nPersonalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets\nPreprint · 2021-01-25\nDOI: 10.1101/2021.01.25.427953\nContributors: Jason Laird; Alexandra Maertens\n\n\n\n\n\n\nAlzheimer’s Disease and Osteoporosis\nNetwork Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jason Laird, Ph.D. Candidate, M.Sc.",
+    "title": "Jason Laird",
     "section": "",
-    "text": "Computational Biologist | Multi-Omics & AI for Translational Medicine\nHi, My name is Jason and I’m a computational biologist who works at the intersection of biology and data. I’m passionate about turning complex datasets into insights for toxicology, neuroimmunology, and translational medicine.\n\n\nSelected Projects\n\n\n\n\ntidyexposomics\nAn R package to characterize exposures, outcomes, and multi-omics profiles.\n\n\n\n\n\nAlzheimer’s Disease and Osteoporosis\nNetwork Analysis of Brain and Bone Tissue Transcripts Reveals Shared Molecular Mechanisms Underlying Alzheimer’s Disease and Related Dementias and Osteoporosis.\n\n\n\n\n\nActivating IGF1R hotspot insertions\nA novel, potentially targetable molecular subtype of adenoid cystic carcinoma."
+    "text": "Department of Environmental Health and Engineering\n\n\nJohns Hopkins Bloomberg School of Public Health\n\n\n\n\n\nI am a computational biologist and toxicologist with a passion for problem-solving.\nI specialize in developing and applying computational methods to understand the complex interactions between exposures, molecular changes, and disease outcomes in neurology and immunology."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Jason Laird",
+    "section": "Projects",
+    "text": "Projects\n\n\n\ntidyexposomics\nAn R package to characterize exposures, outcomes, and multi-omics profiles.\n\n\n\n\n\nDHT-induced Omics Changes in Brain Organoids\nGenetic background and sex modulate androgen responses in human brain microphysiological system\n\n\n\n\n\nActivating IGF1R hotspot insertions\nA novel, potentially targetable molecular subtype of adenoid cystic carcinoma."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Jason Laird",
+    "section": "Contact",
+    "text": "Contact\nLinkedIn: https://www.linkedin.com/in/jason-laird-78b9b116b/\nEmail: jasonlaird5353@gmail.com"
+  },
+  {
+    "objectID": "post_idx.html",
+    "href": "post_idx.html",
+    "title": "Posts",
+    "section": "",
+    "text": "tidyexposomics\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\ntidyexposomics is now on Bioconductor!\n\n\n\n\n\n\nJan 8, 2026\n\n\nJason Laird\n\n\n\n\n\n\nNo matching items"
   }
 ]

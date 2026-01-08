@@ -4,26 +4,27 @@ project:
 
 website:
   title: "Jason Laird"
-  page-footer: 
-    left: "© 2025, Jason Laird" 
-    background: primary
-  sidebar:
-    style: "docked"
+  page-footer:
+    left:
+      - text: "© 2026 Jason Laird"
+    right:
+      - icon: github
+        href: https://github.com/BioNomad
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jason-laird-78b9b116b/
+  navbar:
     search: true
-    contents:
+    left:
       - text: "Home"
         href: index.qmd
+      - text: "Projects"
+        href: index.qmd#projects
       - text: "CV"
-        href: cv.qmd
-      - text: "Github"
-        icon: github
-        href: https://github.com/bionomad
-      - text: "LinkedIn"
-        icon: github
-        href: https://www.linkedin.com/in/jason-laird-78b9b116b/
-      - text: "Email"
-        icon: envelope
-        href: mailto:jasonlaird5353@gmail.com
+        href: cv2.qmd
+      - text: "Posts"
+        href: post_idx.qmd
+      - text: "Contact"
+        href: index.qmd#contact
   
 format:
   html:
